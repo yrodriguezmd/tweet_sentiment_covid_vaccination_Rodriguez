@@ -1,4 +1,4 @@
-## Based on tweets, can we tell if the people are happy with Covid vaccination?
+## Based on tweets, can we tell if the populace is happy with Covid vaccination?
 
 ### Predicting the mass sentiment response to the Covid vaccination based on Tweets
 
